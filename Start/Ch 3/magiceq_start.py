@@ -23,6 +23,7 @@ b4 = Book("To Kill a Mockingbird", "Harper Lee", 24.95)
 
 # TODO: Check for equality
 
+print( b1 == b3)
 
 # TODO: Check for greater and lesser value
 
